@@ -13,7 +13,7 @@
 
     "key_iron" : "",
 
-    "url_exit": "https://play.google.com/store/apps/developer?id=RachidOuxen",
+    "url_exit": "https://play.google.com/store/apps/details?id=com.tachiyoumimangareadertips1.taikiapps&gl=us",
 
 
     "networkAd": "max"
